@@ -1,0 +1,54 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: Fredoka;
+    src: url(/fonts/Fredoka-VariableFont_wdth,wght.ttf);
+}
+@font-face {
+    font-family: Open;
+    src: url(/fonts/OpenSans-VariableFont_wdth,wght.ttf);
+}
+
+@font-face {
+    font-family: MartelSans-Regular;
+    src: url(/fonts/MartelSans-Regular.ttf);
+}
+@font-face {
+    font-family: MartelSans-Bold;
+    src: url(/fonts/MartelSans-Bold.ttf);
+}
+@font-face {
+    font-family: MartelSans-SemiBold;
+    src: url(/fonts/MartelSans-SemiBold.ttf);
+}
+@font-face {
+    font-family: MartelSans-ExtraBold;
+    src: url(/fonts/MartelSans-ExtraBold.ttf);
+}
+@font-face {
+    font-family: MartelSans-Black;
+    src: url(/fonts/MartelSans-Black.ttf);
+}
+@font-face {
+    font-family: MartelSans-Light;
+    src: url(/fonts/MartelSans-Light.ttf);
+}
+@font-face {
+    font-family: MartelSans-ExtraLight;
+    src: url(/fonts/MartelSans-ExtraLight.ttf);
+}
+
+@font-face {
+    font-family: Redgar;
+    src: url(/fonts/Redgar.ttf);
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Martel+Sans:wght@200;300;400;600;700;800;900&display=swap");
+
+nextjs-portal {
+    display: none;
+}
+
+body, #__next {
+    min-height: 100vh;
+}

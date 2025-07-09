@@ -1,0 +1,242 @@
+[
+  {
+    "id": "recAct01",
+    "createdTime": "2024-07-08T10:00:00.000Z",
+    "fields": {
+      "Unité": "pièce",
+      "Quantité disponible": 30,
+      "Prix achat": 2.50,
+      "Produit Lien": ["rec01"],
+      "Produit": "Ananas",
+      "Prix vente COM 30%": 3.50
+    }
+  },
+  {
+    "id": "recAct02",
+    "createdTime": "2024-07-08T10:01:00.000Z",
+    "fields": {
+      "Unité": "kg",
+      "Quantité disponible": 50,
+      "Prix achat": 1.80,
+      "Produit Lien": ["rec02"],
+      "Produit": "Banane",
+      "Prix vente COM 30%": 2.80
+    }
+  },
+  {
+    "id": "recAct03",
+    "createdTime": "2024-07-08T10:02:00.000Z",
+    "fields": {
+      "Unité": "kg",
+      "Quantité disponible": 25,
+      "Prix achat": 3.00,
+      "Produit Lien": ["rec03"],
+      "Produit": "Goyave",
+      "Prix vente COM 30%": 4.00
+    }
+  },
+  {
+    "id": "recAct04",
+    "createdTime": "2024-07-08T10:03:00.000Z",
+    "fields": {
+      "Unité": "pièce",
+      "Quantité disponible": 40,
+      "Prix achat": 1.50,
+      "Produit Lien": ["rec04"],
+      "Produit": "Carotte",
+      "Prix vente COM 30%": 2.00
+    }
+  },
+  {
+    "id": "recAct05",
+    "createdTime": "2024-07-08T10:04:00.000Z",
+    "fields": {
+      "Unité": "pièce",
+      "Quantité disponible": 60,
+      "Prix achat": 1.00,
+      "Produit Lien": ["rec05"],
+      "Produit": "Laitue",
+      "Prix vente COM 30%": 1.50
+    }
+  },
+  {
+    "id": "recAct06",
+    "createdTime": "2024-07-08T10:05:00.000Z",
+    "fields": {
+      "Unité": "pièce",
+      "Quantité disponible": 35,
+      "Prix achat": 0.80,
+      "Produit Lien": ["rec06"],
+      "Produit": "Concombre",
+      "Prix vente COM 30%": 1.20
+    }
+  },
+  {
+    "id": "recAct07",
+    "createdTime": "2024-07-08T10:06:00.000Z",
+    "fields": {
+      "Unité": "kg",
+      "Quantité disponible": 20,
+      "Prix achat": 1.80,
+      "Produit Lien": ["rec07"],
+      "Produit": "Pain",
+      "Prix vente COM 30%": 2.50
+    }
+  },
+  {
+    "id": "recAct08",
+    "createdTime": "2024-07-08T10:07:00.000Z",
+    "fields": {
+      "Unité": "pièce",
+      "Quantité disponible": 15,
+      "Prix achat": 6.00,
+      "Produit Lien": ["rec08"],
+      "Produit": "Miel",
+      "Prix vente COM 30%": 8.00
+    }
+  },
+  {
+    "id": "recAct09",
+    "createdTime": "2024-07-08T10:08:00.000Z",
+    "fields": {
+      "Unité": "pièce",
+      "Quantité disponible": 10,
+      "Prix achat": 9.00,
+      "Produit Lien": ["rec09"],
+      "Produit": "Café en grains",
+      "Prix vente COM 30%": 12.00
+    }
+  },
+  {
+    "id": "recAct10",
+    "createdTime": "2024-07-08T10:09:00.000Z",
+    "fields": {
+      "Unité": "pièce",
+      "Quantité disponible": 40,
+      "Prix achat": 4.00,
+      "Produit Lien": ["rec10"],
+      "Produit": "Jus de Goyave",
+      "Prix vente COM 30%": 5.00
+    }
+  },
+  {
+    "id": "recAct11",
+    "createdTime": "2024-07-08T10:10:00.000Z",
+    "fields": {
+      "Unité": "kg",
+      "Quantité disponible": 30,
+      "Prix achat": 1.50,
+      "Produit Lien": ["rec11"],
+      "Produit": "Piment végétarien",
+      "Prix vente COM 30%": 2.50
+    }
+  },
+  {
+    "id": "recAct12",
+    "createdTime": "2024-07-08T10:11:00.000Z",
+    "fields": {
+      "Unité": "pièce",
+      "Quantité disponible": 18,
+      "Prix achat": 2.00,
+      "Produit Lien": ["rec12"],
+      "Produit": "Fruit à pain",
+      "Prix vente COM 30%": 3.00
+    }
+  },
+  {
+    "id": "recAct13",
+    "createdTime": "2024-07-08T10:12:00.000Z",
+    "fields": {
+      "Unité": "kg",
+      "Quantité disponible": 22,
+      "Prix achat": 1.20,
+      "Produit Lien": ["rec13"],
+      "Produit": "Manioc",
+      "Prix vente COM 30%": 2.20
+    }
+  },
+  {
+    "id": "recAct14",
+    "createdTime": "2024-07-08T10:13:00.000Z",
+    "fields": {
+      "Unité": "pièce",
+      "Quantité disponible": 50,
+      "Prix achat": 5.00,
+      "Produit Lien": ["rec14"],
+      "Produit": "Savon artisanal",
+      "Prix vente COM 30%": 6.50
+    }
+  },
+  {
+    "id": "recAct15",
+    "createdTime": "2024-07-08T10:14:00.000Z",
+    "fields": {
+      "Unité": "pièce",
+      "Quantité disponible": 28,
+      "Prix achat": 7.00,
+      "Produit Lien": ["rec15"],
+      "Produit": "Huile de coco",
+      "Prix vente COM 30%": 9.00
+    }
+  },
+  {
+    "id": "recAct16",
+    "createdTime": "2024-07-08T10:15:00.000Z",
+    "fields": {
+      "Unité": "pièce",
+      "Quantité disponible": 33,
+      "Prix achat": 6.00,
+      "Produit Lien": ["rec16"],
+      "Produit": "Confiture de mangue",
+      "Prix vente COM 30%": 7.50
+    }
+  },
+  {
+    "id": "recAct17",
+    "createdTime": "2024-07-08T10:16:00.000Z",
+    "fields": {
+      "Unité": "pièce",
+      "Quantité disponible": 12,
+      "Prix achat": 4.50,
+      "Produit Lien": ["rec17"],
+      "Produit": "Thé glacé maison",
+      "Prix vente COM 30%": 6.00
+    }
+  },
+  {
+    "id": "recAct18",
+    "createdTime": "2024-07-08T10:17:00.000Z",
+    "fields": {
+      "Unité": "pièce",
+      "Quantité disponible": 45,
+      "Prix achat": 3.50,
+      "Produit Lien": ["rec18"],
+      "Produit": "Chips de banane plantain",
+      "Prix vente COM 30%": 4.50
+    }
+  },
+  {
+    "id": "recAct19",
+    "createdTime": "2024-07-08T10:18:00.000Z",
+    "fields": {
+      "Unité": "pièce",
+      "Quantité disponible": 8,
+      "Prix achat": 20.00,
+      "Produit Lien": ["rec19"],
+      "Produit": "Fleurs tropicales",
+      "Prix vente COM 30%": 25.00
+    }
+  },
+  {
+    "id": "recAct20",
+    "createdTime": "2024-07-08T10:19:00.000Z",
+    "fields": {
+      "Unité": "pièce",
+      "Quantité disponible": 100,
+      "Prix achat": 4.00,
+      "Produit Lien": ["rec20"],
+      "Produit": "Vanille",
+      "Prix vente COM 30%": 5.00
+    }
+  }
+]

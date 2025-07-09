@@ -1,0 +1,6 @@
+{
+    "typescript.tsserver.experimental.enableProjectDiagnostics": true,
+    "eslint.validate": [
+        
+    ]
+}

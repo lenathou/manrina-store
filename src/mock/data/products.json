@@ -1,0 +1,182 @@
+[
+  {
+    "id": "rec01",
+    "createdTime": "2024-07-01T10:00:00.000Z",
+    "fields": {
+      "Name": "Ananas",
+      "Category": "Fruits",
+      "Produit SUMUP": ["recSumup01"]
+    }
+  },
+  {
+    "id": "rec02",
+    "createdTime": "2024-07-01T10:01:00.000Z",
+    "fields": {
+      "Name": "Banane",
+      "Category": "Fruits",
+      "Produit SUMUP": ["recSumup02"]
+    }
+  },
+  {
+    "id": "rec03",
+    "createdTime": "2024-07-01T10:02:00.000Z",
+    "fields": {
+      "Name": "Goyave",
+      "Category": "Fruits",
+      "Produit SUMUP": ["recSumup03"]
+    }
+  },
+  {
+    "id": "rec04",
+    "createdTime": "2024-07-01T10:03:00.000Z",
+    "fields": {
+      "Name": "Carotte",
+      "Category": "Légumes",
+      "Produit SUMUP": ["recSumup04"]
+    }
+  },
+  {
+    "id": "rec05",
+    "createdTime": "2024-07-01T10:04:00.000Z",
+    "fields": {
+      "Name": "Laitue",
+      "Category": "Légumes",
+      "Produit SUMUP": ["recSumup05"]
+    }
+  },
+  {
+    "id": "rec06",
+    "createdTime": "2024-07-01T10:05:00.000Z",
+    "fields": {
+      "Name": "Concombre",
+      "Category": "Légumes",
+      "Produit SUMUP": ["recSumup06"]
+    }
+  },
+  {
+    "id": "rec07",
+    "createdTime": "2024-07-01T10:06:00.000Z",
+    "fields": {
+      "Name": "Pain",
+      "Category": "Boulangerie",
+      "Produit SUMUP": ["recSumup07"]
+    }
+  },
+  {
+    "id": "rec08",
+    "createdTime": "2024-07-01T10:07:00.000Z",
+    "fields": {
+      "Name": "Miel",
+      "Category": "Épicerie",
+      "Produit SUMUP": ["recSumup08"]
+    }
+  },
+  {
+    "id": "rec09",
+    "createdTime": "2024-07-01T10:08:00.000Z",
+    "fields": {
+      "Name": "Café en grains",
+      "Category": "Épicerie",
+      "Produit SUMUP": ["recSumup09"]
+    }
+  },
+  {
+    "id": "rec10",
+    "createdTime": "2024-07-01T10:09:00.000Z",
+    "fields": {
+      "Name": "Jus de Goyave",
+      "Category": "Boissons",
+      "Produit SUMUP": ["recSumup10"]
+    }
+  },
+  {
+    "id": "rec11",
+    "createdTime": "2024-07-01T10:10:00.000Z",
+    "fields": {
+      "Name": "Piment végétarien",
+      "Category": "Légumes",
+      "Produit SUMUP": ["recSumup11"]
+    }
+  },
+  {
+    "id": "rec12",
+    "createdTime": "2024-07-01T10:11:00.000Z",
+    "fields": {
+      "Name": "Fruit à pain",
+      "Category": "Légumes",
+      "Produit SUMUP": ["recSumup12"]
+    }
+  },
+  {
+    "id": "rec13",
+    "createdTime": "2024-07-01T10:12:00.000Z",
+    "fields": {
+      "Name": "Manioc",
+      "Category": "Légumes",
+      "Produit SUMUP": ["recSumup13"]
+    }
+  },
+  {
+    "id": "rec14",
+    "createdTime": "2024-07-01T10:13:00.000Z",
+    "fields": {
+      "Name": "Savon artisanal",
+      "Category": "Artisanat",
+      "Produit SUMUP": ["recSumup14"]
+    }
+  },
+  {
+    "id": "rec15",
+    "createdTime": "2024-07-01T10:14:00.000Z",
+    "fields": {
+      "Name": "Huile de coco",
+      "Category": "Épicerie",
+      "Produit SUMUP": ["recSumup15"]
+    }
+  },
+  {
+    "id": "rec16",
+    "createdTime": "2024-07-01T10:15:00.000Z",
+    "fields": {
+      "Name": "Confiture de mangue",
+      "Category": "Épicerie",
+      "Produit SUMUP": ["recSumup16"]
+    }
+  },
+  {
+    "id": "rec17",
+    "createdTime": "2024-07-01T10:16:00.000Z",
+    "fields": {
+      "Name": "Thé glacé maison",
+      "Category": "Boissons",
+      "Produit SUMUP": ["recSumup17"]
+    }
+  },
+  {
+    "id": "rec18",
+    "createdTime": "2024-07-01T10:17:00.000Z",
+    "fields": {
+      "Name": "Chips de banane plantain",
+      "Category": "Épicerie",
+      "Produit SUMUP": ["recSumup18"]
+    }
+  },
+  {
+    "id": "rec19",
+    "createdTime": "2024-07-01T10:18:00.000Z",
+    "fields": {
+      "Name": "Fleurs tropicales",
+      "Category": "Fleurs",
+      "Produit SUMUP": ["recSumup19"]
+    }
+  },
+  {
+    "id": "rec20",
+    "createdTime": "2024-07-01T10:19:00.000Z",
+    "fields": {
+      "Name": "Vanille",
+      "Category": "Épicerie",
+      "Produit SUMUP": ["recSumup20"]
+    }
+  }
+]

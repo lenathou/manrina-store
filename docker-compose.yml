@@ -1,0 +1,22 @@
+version: "3.8"
+
+services:
+  postgres_manrina:
+    image: postgres:latest
+    container_name: postgres_local_manrina
+    environment:
+      POSTGRES_DB: mydatabase
+      POSTGRES_USER: myuser
+      POSTGRES_PASSWORD: mypassword
+    ports:
+      - "5433:5432" # Expose le port 5432 du conteneur en 5433 sur ta machine
+    volumes:
+      - postgres_data_manrina:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD", "pg_isready", "-U", "myuser", "-d", "mydatabase", "-p", "5432"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  postgres_data_manrina:

@@ -1,0 +1,29 @@
+---
+description: everything
+globs: 
+---
+
+# Your rule content
+
+The project is a next app:
+- backend code is in /src/server & entry points are in /src/pages/api
+- app code is in /src/app & components are in /src/components & pages are in /src/pages
+
+This project uses react-native-for-web and style is made through JS object inside the stylesheet object.
+Do not use tailwind.
+
+Communication between backend and app is done through src/server/ApiUseCases.ts [ApiUseCases.ts](mdc:src/server/ApiUseCases.ts) and src/service/BackendFetchService.ts [BackendFetchService.tsx](mdc:src/service/BackendFetchService.tsx)
+Every function in src/server/ApiUseCases.ts is a use case that can be called from the app through backendFetchService.
+The [BackendFetchService.tsx](mdc:src/service/BackendFetchService.tsx) is a proxy that intercepts calls to the backend and sends them to the backend through the fetch function.
+It's imported with `import { backendFetchService } from "src/service/BackendFetchService";`
+
+Server Config:
+Server modules are in /src/server.
+Each module has to be as maximum independent of the others.
+Modules have the following structure:
+- I[ModuleName] with the interfaces used
+- IEntity with the entities used
+- ModuleRepository that contains the repo typing
+- ModuleUseCases that contains the all the usecases
+
+
